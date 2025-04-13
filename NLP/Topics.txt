@@ -1,0 +1,14 @@
+**Unit 1**
+
+1. Introduction to NLP
+2. Tokenization
+3. Bigrams, Trigrams and Ngrams
+4. Stop Words
+5. Part of speech[POS]
+6. Lemmatization
+7. Stemming
+8. NER- Named Entity Recognition
+
+**Unit 2**
+
+1. Feature Extraction
